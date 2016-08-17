@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android9_2_2_562</string>
+    <string name="button">プログレスダイアログを起動</string>
+    <string name="message">処理しています...</string>
+</resources>
